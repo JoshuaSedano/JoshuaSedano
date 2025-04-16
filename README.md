@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hola 👋, soy Joshua Sedano</h1>
-<h3 align="center">estudiante de segundo año de CFGS Desarrollo de aplicaciones multiplataforma (DAM) |</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
